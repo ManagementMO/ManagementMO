@@ -1,6 +1,6 @@
 
 # 🦕 About Me:
-📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>
+📚 I study Management Engineering at the University of Waterloo<br>🤖
 
 
 ## 🌐 Socials:
