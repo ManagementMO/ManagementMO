@@ -1,9 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Wang%20🔎&text2=Data%20Analyst%20%2F%20Machine%20Learning%20Engineer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-
 
 # 🦕 About Me:
-📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>👯 I am currently working on Quiry - my LLM powered discord bot<br>🌱 I’m currently learning about the capabilities of sentiment analysis in natural language processing (understanding emotions behind text)<br>💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-wang101)!<br>
+📚 I am currently enrolled in Honours Management Engineering at the University of Waterloo<br>🤖 I specialize in the field of data science/machine learning<br>
 
 
 ## 🌐 Socials:
