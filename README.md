@@ -1,6 +1,6 @@
 
 # About Me:
-📚 I study Management Engineering at the University of Waterloo<br>
+I study Management Engineering at the University of Waterloo<br>
 
 
 ## 🌐 Socials:
