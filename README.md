@@ -1,10 +1,5 @@
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-elshrief/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Elshrief-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elshrief/)
 
 
 # 💻 Tech Stack:
