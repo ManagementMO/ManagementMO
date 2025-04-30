@@ -1,8 +1,3 @@
-
-# About Me:
-I study Management Engineering at the University of Waterloo<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elshrief/)
 
