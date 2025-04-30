@@ -1,5 +1,6 @@
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-elshrief/) [![Instagram](https://img.shields.io/badge/Instagram-@mo__ig123-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo_ig123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-elshrief/) 
+[![Instagram](https://img.shields.io/badge/Instagram-@mo__ig123-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mo_ig123/)
 
 
 
