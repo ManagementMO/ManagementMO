@@ -1,5 +1,5 @@
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-elshrief/)  [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/mo_ig123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-elshrief/)
 
 
 # Tech Stack:
