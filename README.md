@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" style="border:0;"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60" style="border:0;"/>
+    <img src="https://cdn.simpleicons.org/docker/1D60AD" alt="docker" width="60" height="60" style="border:0;"/>
   </a>
 </p>
 
