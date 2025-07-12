@@ -69,23 +69,23 @@
 <!-- 6. GITHUB STATS -->
 <h3 align="center">My GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&locale=en&theme=dracula" alt="YOUR-GITHUB-USERNAME" />
+  <a href="https://github.com/ManagementMO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManagementMO&show_icons=true&locale=en&theme=dracula" alt="ManagementMO" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-GITHUB-USERNAME&layout=compact&locale=en&theme=dracula" alt="YOUR-GITHUB-USERNAME" />
+  <a href="https://github.com/ManagementMO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManagementMOE&layout=compact&locale=en&theme=dracula" alt="YOUR-GITHUB-USERNAME" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" alt="YOUR-GITHUB-USERNAME" />
+  <a href="https://github.com/ManagementMO">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManagementMO&theme=dracula" alt="YOUR-GITHUB-USERNAME" />
   </a>
 </p>
 
 <!-- 7. GITHUB ACTIVITY GRAPH -->
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="github activity graph" />
+  <a href="https://github.com/ManagementMO">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManagementMO&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="github activity graph" />
   </a>
 </p>
 
