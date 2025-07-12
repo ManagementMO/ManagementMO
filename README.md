@@ -1,4 +1,9 @@
-<!-- "Photon" Wave Header -->
+
+<!-- Particle Plexus Header -->
+<p align="center">
+  <img src="https://github.com/reiver/github-profile-header-generator/blob/main/gears/gears.gif?raw=true" alt="Particle Plexus Header"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=photon&height=300§ion=header&text=Mohammed&fontSize=90&color=0:3a1c71,100:c850c0" alt="Photon Wave Header"/>
 </p>
