@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<!-- 7. FOOTER -->
+<!-- Sleek, Glass-morphic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=150§ion=footer&color=transparent&customColorList=%5B%7B%22stop%22%3A0%2C%22color%22%3A%22%2300000000%22%7D%2C%7B%22stop%22%3A0.2%2C%22color%22%3A%22%23FFFFFF10%22%7D%2C%7B%22stop%22%3A0.8%2C%22color%22%3A%22%23FFFFFF10%22%7D%2C%7B%22stop%22%3A1%2C%22color%22%3A%22%2300000000%22%7D%5D" alt="Glassmorphic Footer"/>
 </p>
