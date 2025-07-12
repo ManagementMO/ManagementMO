@@ -73,6 +73,6 @@
 <!-- Modern, Data-Driven Footer -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
