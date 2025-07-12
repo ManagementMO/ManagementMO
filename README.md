@@ -30,20 +30,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/ManagementMO">
     <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33F7F7&width=435&lines=Software+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Always+Learning" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 3. SOCIALS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-<hr>
-
-<!-- 4. ABOUT ME -->
+<!-- 3. ABOUT ME -->
 <p align="center">
   🚀 I'm a [Your Role] based in [Your Location].<br>
   💡 I'm passionate about building scalable software, diving deep into data, and exploring the frontiers of machine learning.<br>
@@ -52,7 +44,7 @@
 </p>
 <hr>
 
-<!-- 5. TECH STACK -->
+<!-- 4. TECH STACK -->
 <h3 align="center">Languages & Core Tools</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -64,7 +56,7 @@
 <h3 align="center">Libraries & Frameworks</h3>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- 6. GITHUB STATS -->
+<!-- 5. GITHUB STATS -->
 <h3 align="center">My GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/ManagementMO">
@@ -80,14 +72,14 @@
   </a>
 </p>
 
-<!-- 7. GITHUB ACTIVITY GRAPH -->
+<!-- 6. GITHUB ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/ManagementMO">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManagementMO&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="github activity graph" />
   </a>
 </p>
 
-<!-- 8. FOOTER -->
+<!-- 7. FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150§ion=footer" alt="Footer" />
 </p>
