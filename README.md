@@ -84,10 +84,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
-
-
-
-<!-- Animated Gradient Bar Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300§ion=header&text=Mohammed&fontSize=90&animation=gradient&color=0:B2FEFA,100:0ED2F7" alt="Animated Gradient Header"/>
-</p>
