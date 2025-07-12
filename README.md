@@ -1,3 +1,8 @@
+<!-- "Photon" Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=photon&height=300§ion=header&text=Mohammed&fontSize=90&color=0:3a1c71,100:c850c0" alt="Photon Wave Header"/>
+</p>
+
 <!-- 1. HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Hi%20there!&fontSize=70" alt="Header" />
