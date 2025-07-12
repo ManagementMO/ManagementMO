@@ -70,7 +70,9 @@
   </a>
 </p>
 
-<!-- Sleek, Glass-morphic Footer -->
+<!-- Modern, Data-Driven Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=150§ion=footer&color=transparent&customColorList=%5B%7B%22stop%22%3A0%2C%22color%22%3A%22%2300000000%22%7D%2C%7B%22stop%22%3A0.2%2C%22color%22%3A%22%23FFFFFF10%22%7D%2C%7B%22stop%22%3A0.8%2C%22color%22%3A%22%23FFFFFF10%22%7D%2C%7B%22stop%22%3A1%2C%22color%22%3A%22%2300000000%22%7D%5D" alt="Glassmorphic Footer"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
 </p>
