@@ -12,9 +12,9 @@
 
 <!-- 3. ABOUT ME -->
 <p align="center">
-   I'm an engineer based in Waterloo.<br>
-   I'm passionate about building scalable software, diving deep into data, and exploring the frontiers of machine learning.<br>
-   I’m currently learning Kubernetes! <br>
+  🌎 I'm an engineer based in Waterloo <br>
+  💡 I'm passionate about building scalable software, diving deep into data, and exploring the frontiers of machine learning <br>
+  🌱 I’m currently learning Kubernetes! <br>
 </p>
 <hr>
 
