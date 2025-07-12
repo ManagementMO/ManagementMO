@@ -6,7 +6,7 @@
 <!-- 2. INTRODUCTION -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block;">I'm Mohammed 👋</h1></summary>
+    <summary><h1 style="display: inline-block;"> I'm Mohammed 👋</h1></summary>
   </ul>
 </div>
 
@@ -18,10 +18,9 @@
 
 <!-- 3. ABOUT ME -->
 <p align="center">
-  🚀 I'm a [Your Role] based in [Your Location].<br>
-  💡 I'm passionate about building scalable software, diving deep into data, and exploring the frontiers of machine learning.<br>
-  🌱 I’m currently learning [Something you are learning].<br>
-  💬 Ask me about anything related to Python, Go, MLOps, or rock climbing! <br>
+   I'm an engineer based in Waterloo.<br>
+   I'm passionate about building scalable software, diving deep into data, and exploring the frontiers of machine learning.<br>
+   I’m currently learning Kubernetes! <br>
 </p>
 <hr>
 
