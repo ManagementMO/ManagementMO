@@ -15,8 +15,6 @@
 
 
 <!-- 
-  This is a template for a beautiful GitHub profile README.
-  Feel free to edit and customize it to your liking!
 -->
 
 <!-- 1. HEADER -->
@@ -27,7 +25,7 @@
 <!-- 2. INTRODUCTION -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block;">I'm [Your Name] 👋</h1></summary>
+    <summary><h1 style="display: inline-block;">I'm Mohammed 👋</h1></summary>
   </ul>
 </div>
 
