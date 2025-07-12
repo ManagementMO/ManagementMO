@@ -10,12 +10,6 @@
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://github.com/ManagementMO">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33F7F7¢er=true&vCenter=true&width=435&lines=Software+Engineer;Data+Scientist;Machine+Learning+Enthusiast;Always+Learning" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- 3. ABOUT ME -->
 <p align="center">
    I'm an engineer based in Waterloo.<br>
