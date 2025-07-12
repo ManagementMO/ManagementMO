@@ -1,13 +1,3 @@
-
-<!-- Particle Plexus Header -->
-<p align="center">
-  <img src="https://github.com/reiver/github-profile-header-generator/blob/main/gears/gears.gif?raw=true" alt="Particle Plexus Header"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=photon&height=300§ion=header&text=Mohammed&fontSize=90&color=0:3a1c71,100:c850c0" alt="Photon Wave Header"/>
-</p>
-
 <!-- 1. HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Hi%20there!&fontSize=70" alt="Header" />
@@ -93,4 +83,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/reiver/github-profile-header-generator/blob/main/gears/gears.gif?raw=true" alt="Particle Plexus Header"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=photon&height=300§ion=header&text=Mohammed&fontSize=90&color=0:3a1c71,100:c850c0" alt="Photon Wave Header"/>
 </p>
