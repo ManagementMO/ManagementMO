@@ -84,3 +84,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Aesthetic Scenery" width="100%"/>
