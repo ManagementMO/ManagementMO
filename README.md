@@ -84,3 +84,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
+
+
+<!-- 8. VISITORS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManagementMO&style=flat-square&color=blue" alt="Profile views"/>
+</p>
