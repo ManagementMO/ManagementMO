@@ -85,6 +85,4 @@
   </a>
 </p>
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834480-dba2a980-a447-11eb-843e-7a2f58e5a766.gif" alt="Cyberpunk Header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Aesthetic Scenery" width="100%"/>
