@@ -86,6 +86,11 @@
 </p>
 
 
+<!-- 9. SNAKE -->
+<p align="center">
+  <img src="https://github.com/ManagementMO/ManagementMO/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
 <!-- 8. VISITORS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManagementMO&style=flat-square&color=blue" alt="Profile views"/>
