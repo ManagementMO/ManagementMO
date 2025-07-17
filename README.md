@@ -85,17 +85,7 @@
   </a>
 </p>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Aesthetic Scenery" width="100%"/>
 
-
-
-
-
-
-
-<h3 align="center">Languages & Core Tools</h3>
-<p alignHind_Guntur" />
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" font-family="Hind_Guntur" />
-    <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" font-family="Hind_Guntur" />
-    <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" font-family="Hind_Guntur" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834485-dc460780-a447-11eb-898f-4137452da695.gif" alt="Animated Footer" width="100%"/>
