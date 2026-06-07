@@ -61,12 +61,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManagementMO&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
-
-<!-- Modern, Data-Driven Footer -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManagementMO&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Aesthetic Scenery" width="100%"/>
