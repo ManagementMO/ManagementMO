@@ -55,22 +55,6 @@
 </p>
 <hr>
 
-<!-- 5. GITHUB STATS -->
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <a href="https://github.com/ManagementMO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManagementMO&show_icons=true&locale=en&theme=dracula" alt="ManagementMO's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ManagementMO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManagementMO&layout=compact&locale=en&theme=dracula" alt="ManagementMO's Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ManagementMO">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManagementMO&theme=dracula" alt="ManagementMO's GitHub Streak" />
-  </a>
-</p>
-
 <!-- 6. GITHUB ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/ManagementMO">
